@@ -1,0 +1,62 @@
+
+--- New ETL Process Run ---
+2025-02-02 13:14:22,899:INFO:Starting ETL process
+2025-02-02 13:14:24,176:INFO:Uploaded transformed_data.csv to etl-project-raw-data/transformed_data.csv
+2025-02-02 13:14:24,176:INFO:ETL process completed successfully
+
+
+--- New ETL Process Run ---
+2025-02-02 13:17:17,825:INFO:Starting ETL process
+2025-02-02 13:17:19,193:INFO:Uploaded raw_data.csv to etl-project-raw-data/raw_data.csv
+2025-02-02 13:17:19,671:INFO:Uploaded transformed_data.csv to etl-project-raw-data/transformed_data.csv
+2025-02-02 13:17:19,672:INFO:ETL process completed successfully
+
+
+--- New ETL Process Run ---
+2025-02-02 13:20:46,929:INFO:Starting ETL process
+2025-02-02 13:20:48,269:INFO:Uploaded raw_data.csv to etl-project-raw-data/raw_data.csv
+2025-02-02 13:20:48,751:INFO:Uploaded transformed_data.csv to etl-project-raw-data/transformed_data.csv
+
+
+--- New ETL Process Run ---
+2025-02-02 13:31:21,651:INFO:Starting ETL process
+2025-02-02 13:31:23,603:INFO:Uploaded raw_data.csv to etl-project-raw-data/raw_data.csv
+2025-02-02 13:31:24,189:INFO:Uploaded transformed_data.csv to etl-project-raw-data/transformed_data.csv
+
+
+--- New ETL Process Run ---
+2025-02-02 13:43:51,019:INFO:Starting ETL process
+2025-02-02 13:43:54,660:INFO:Uploaded raw_data.csv to etl-project-raw-data/raw_data.csv
+2025-02-02 13:43:55,789:INFO:Uploaded transformed_data.csv to etl-project-raw-data/transformed_data.csv
+
+
+--- New ETL Process Run ---
+2025-04-13 14:50:27,881:INFO:Starting ETL process
+2025-04-13 14:50:28,202:INFO:Data Extract From CSV
+2025-04-13 14:50:28,739:INFO:Data Extract From Json
+2025-04-13 14:50:28,814:INFO:Data Extract From XML
+2025-04-13 14:50:31,204:INFO:Uploaded raw_data.csv to etl-project-raw-data/raw_data.csv
+2025-04-13 14:50:32,070:INFO:Transformed the data
+2025-04-13 14:50:32,521:INFO:Uploaded transformed_data.csv to etl-project-raw-data/transformed_data.csv
+
+
+--- New ETL Process Run ---
+2025-04-13 15:04:27,491:INFO:Starting ETL process
+2025-04-13 15:04:28,191:INFO:Data Extract From CSV
+2025-04-13 15:04:28,892:INFO:Data Extract From Json
+2025-04-13 15:04:29,111:INFO:Data Extract From XML
+2025-04-13 15:04:32,714:INFO:Uploaded raw_data.csv to etl-project-raw-data/raw_data.csv
+2025-04-13 15:04:32,961:INFO:Transformed the data
+2025-04-13 15:04:33,414:INFO:Uploaded transformed_data.csv to etl-project-raw-data/transformed_data.csv
+
+
+--- New ETL Process Run ---
+2025-04-13 15:08:04,659:INFO:Starting ETL process
+2025-04-13 15:08:04,671:INFO:Data Extract From CSV
+2025-04-13 15:08:04,679:INFO:Data Extract From Json
+2025-04-13 15:08:04,684:INFO:Data Extract From XML
+2025-04-13 15:08:05,979:INFO:Uploaded raw_data.csv to etl-project-raw-data/raw_data.csv
+2025-04-13 15:08:05,979:INFO:Transformed the data
+2025-04-13 15:08:06,419:INFO:Uploaded transformed_data.csv to etl-project-raw-data/transformed_data.csv
+2025-04-13 15:08:11,609:INFO:Loaded data into transformed_table table in RDS
+2025-04-13 15:08:11,609:INFO:ETL process completed successfully
