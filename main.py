@@ -100,7 +100,6 @@ def extract_xml(folder_path):
     logging.info(f"Data Extract From XML")
     return combined_data
 
-
 def transform_data(df):
     df['height_m'] = (df['height'] * 0.0254).round(2)  # Convert inches to meters
     df['weight_kg'] = (df['weight'] * 0.453592).round(2)  # Convert pounds to kg
